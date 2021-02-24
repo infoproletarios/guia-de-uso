@@ -23,9 +23,7 @@ Há níveis crescentes de acesso e responsabilidade baseados no engajamento em t
 
 - Moderadores: necessario ser Membro e comunicação ou segurança
 
-- Comunidade: Definir um planto permanente de encontrar pessoas e construir novos nucleos com essas pessoas.
-
-
+- Comunidade: Nossos canais oficiais para conversa e debates a cerca do trabalho sindical e manifestações.
 
 
 ## 4. Quais são os canais oficiais?
