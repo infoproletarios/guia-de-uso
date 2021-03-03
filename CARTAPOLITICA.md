@@ -11,7 +11,13 @@ Fortalecer as frentes antifascista a nível nacional e internacional, e fortalec
 **Nossas bandeiras**
 - Luta contra todas as formas de terceirização;
 
-- Aceitar filiados em sindicatos em outros regimes de contratação e desempregados;
+- Vacina grátis pra todos. Sem vacina é greve!
+
+- Garantia de creches sem custos para os filhos de trabalhadores;
+
+- Pela organização sindical democrática elegendo representante do local de trabalho.
+
+- Possam ser filiados como membros dos sindicatos todos em outros regimes de contratação que não CLT, e desempregados;
 
 - Redução da jornada de trabalho para 6 (seis) horas diárias sem redução de salário;
 
@@ -31,15 +37,13 @@ Fortalecer as frentes antifascista a nível nacional e internacional, e fortalec
 
 - Hora extra 100%
 
-- Contra mecanismo do patrão pra conseguir sobre trabalho;
+- Contra mecanismo do patrão pra conseguir sobretrabalho;
 
-- nção igual salário igual. Exigir equidade salarial para a mesma função, sem distinção étnica, de gênero; orientação sexual, etária ou quaisquer outros marcadores sociais de diferença;
+- Função igual salário igual. Exigir equidade salarial para a mesma função, sem distinção étnica, de gênero; orientação sexual, etária ou quaisquer outros marcadores sociais de diferença;
 
 - Enfrentamento ao machismo que encontra forte eco dentro das subcategorias de trabalhadores de TI;
 
-- Garantia de creches sem custos para os filhos de trabalhadores;
-
-- Estatização das empresas, e dos códigos-fonte, sem controle de burocratas e sim sob controle operário; 
+- Estatização das empresas, e dos códigos-fonte, sem controle de burocratas e sim sob controle do operário; 
 
 - 1(um) ano de licença maternidade e paternidade;
 
@@ -47,7 +51,7 @@ Fortalecer as frentes antifascista a nível nacional e internacional, e fortalec
 
 - Uso, desenvolvimento e fomento ao Software Livre;
 
-- Vacina grátis pra todos. Sem vacina é greve!
+- Fim de todas as patentes;
 
 **Como nos Organizamos?**
 
