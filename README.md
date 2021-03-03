@@ -19,7 +19,7 @@ Há níveis crescentes de acesso e responsabilidade baseados no engajamento em t
 
 - Comunidade: Nossos canais oficiais para conversa, debates públicos, e discussão do nosso jornal Kernel Panic e outras mídias digitais.
 
-- Moderadores: Membros que do ambiente digital e físico da Comunidade. 
+- Moderadores: Membros que moderam o ambiente digital e físico da Comunidade. 
 
 - Membro: Organizador dos espaços, e comunicador da mídia, deve participar da nossa formação interna, executar tarefas periódicas, e estar de acordo com os textos políticos.
 
