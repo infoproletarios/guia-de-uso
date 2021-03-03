@@ -27,7 +27,7 @@ Há níveis crescentes de acesso e responsabilidade baseados no engajamento em t
 
 Twitter @infoproletarios (https://twitter.com/infoproletarios)
 Canal no Telegram (https://t.me/infoproletarios)
-Página do Facebook (https://www.facebook.com/page/infoproletarios/). 
+Página do Facebook (https://www.facebook.com/infoproletarios/). 
 Instagram (https://instagram.com/infoproletariosoficial)
 
 São canais que nos esforçamos para manter com atividade e debates construtivos.
