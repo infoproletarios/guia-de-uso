@@ -1,37 +1,37 @@
 # Infoproletários: Guia de Uso
 
-<img src="https://github.com/infoproletarios/guia-de-uso/blob/master/asamblea.jpg" alt="asamblea">
-
 Este é o documento que o Infoproletários utiliza para apresentar suas propostas.
 
 ## 1. O que é o Infoproletários?
 O Infoproletários é uma corrente sindical de trabalhadores e trabalhadoras da TI.
-Nós atumaos para mudar as codições de trabalho e vida dos trabalhadores de tecnologia e para acabar com a exploração do trabalhador de TI. 
 
-Nós nos organizamos neste coletivo para combater o peleguismo nos meios sindicais e para criar sindicatos revolucionários, para todos os trabalhadores de TIC.
-Não nos restringimos a forma de contratação do trabalhador e solicitamos que . PJ, MEI, CLT, freelancer, etc.
+Nós atumaos para mudar as codições de trabalho e vida dos trabalhadores de tecnologia e para acabar com a exploração do trabalhador de TI. 
+Nós nos organizamos para combater o peleguismo nos meios sindicais e para criar um sindicalismo revolucionário para todos os trabalhadores de TI.
+Não nos restringimos a forma de contratação do trabalhador porque não nos colocamos pelas leis atuais da sociedade burguesa carcomida.
+Lutamos para a admissão nos Sindicatos pelos que trabalham como: PJ, MEI, CLT, freelancer, e também desempregados.
+Entendemos que estas variadas formas de contratação (inclusive a demissão) na verdade são formas dos empregadores burlarem as leis que os trabalhadores deveriam ter para obter lucros maiores.
 Somos todos trabalhadores de TI, inclusive quando estamos desempregados, e precisamos nos juntar para conseguir nossos interesses coletivos.
+Acreditamos que a solução individual, que acraditamos ser imposta, pois é a propaganda e preparada pelo sistema,leva a atomização e perdas gerais no futuro próximo e depois.
 
 ## 2. Como funciona o Infoproletários?
-O Info funciona na forma de círculos concêntricos. Na prática. 
+O Info funciona na forma de círculos concêntricos.
 Há níveis crescentes de acesso e responsabilidade baseados no engajamento em tarefas e atividades sindicais.
 
+- Comunidade: Nossos canais oficiais para conversa, debates públicos, e discussão do nosso jornal Kernel Panic e mídias digitais.
 
+- Moderadores: Membros que do ambiente digital e físico da Comunidade. 
 
+- Membro: Organizador dos espaços, e comunicador da mídia, deve participar da nossa formação interna, executar tarefas periódicas, e estar de acordo com os textos políticos.
 
-- Membro: Aplicar a formação definida de entender os textos politicos e entrar de acordo.
+## 3. Quais são os canais oficiais?
 
-- Moderadores: necessario ser Membro e comunicação ou segurança
-
-- Comunidade: Nossos canais oficiais para conversa e debates a cerca do trabalho sindical e manifestações.
-
-
-## 4. Quais são os canais oficiais?
-
-Twitter @infoproletarios
-Canal no Telegram t.me/infoproletarios
-Page do Facebook (https://www.facebook.com/page/infoproletarios/). 
-Instagram 
+Twitter @infoproletarios (https://twitter.com/infoproletarios)
+Canal no Telegram (https://t.me/infoproletarios)
+Página do Facebook (https://www.facebook.com/page/infoproletarios/). 
+Instagram (https://instagram.com/infoproletariosoficial)
 
 São canais que nos esforçamos para manter com atividade e debates construtivos.
 Há moderação nestes espaços e espera-se que todos os participantes sigam o nosso [Código de Conduta](#).
+
+
+<img src="https://github.com/infoproletarios/guia-de-uso/blob/master/asamblea.jpg" alt="asamblea">
