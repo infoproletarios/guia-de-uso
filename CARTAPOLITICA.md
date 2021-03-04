@@ -3,54 +3,33 @@ Lutamos pela independência total e liberdade para a democracia operária poder 
 
 **Trabalhadores de Tecnologia, uni-vos**
 Defendemos a união dos trabalhadores e atuação política e sindical desses trabalhadores.
-Não aceitamos nos subordinar ao jogo capitalista de explorar mais os trabalhadores que perecem doentes ao invés de trazer as tecnologias para o bem comum do conjunto da humanidade.
+Não aceitamos nos subordinar ao jogo capitalista de explorar mais os trabalhadores ao invés de trazer as tecnologias para o bem comum do conjunto da humanidade.
 Lutamos pela superação do capitalismo em prol do Socialismo com a tomada e controle das empresas pelos trabalhadores;
-Enfrentamento, anulação e reversão dos ataques contra os direitos dos trabalhadores, apresentados nas contrarreformas do Capitalismo recentes, como a Reforma Trabalhista e da Previdência, que visam diminuir o custo do trabalho;
+Enfrentamento, anulação e reversão dos ataques contra os direitos dos trabalhadores, apresentados nas contrarreformas do Capitalismo recentes, como a Reforma Trabalhista e da Previdência;
 Fortalecer as frentes antifascista a nível nacional e internacional, e fortalecimento de correntes internacionais de partidos e sindicatos anticapitalistas;
 
 **Nossas bandeiras**
-- Luta contra todas as formas de terceirização;
-
 - Vacina grátis pra todos. Sem vacina é greve!
-
-- Garantia de creches sem custos para os filhos de trabalhadores;
-
-- Pela organização sindical democrática elegendo representante do local de trabalho.
-
-- Possam ser filiados como membros dos sindicatos todos em outros regimes de contratação que não CLT, e desempregados;
-
-- Redução da jornada de trabalho para 6 (seis) horas diárias sem redução de salário;
-
-- Garantia de estabilidade no emprego com proibição de demissão;
-
-- Extensão dos direitos trabalhistas a todos os trabalhadores independente de forma de contratação;
-
+- Lutar contra todas as formas de terceirização;
 - Exigir a contratação de CLT dos funcionários PJ e outras formas de contratação;
-
+- Extensão dos direitos trabalhistas a todos os trabalhadores independente de forma de contratação;
+- Garantia de estabilidade no emprego;
+- Independependência do Estado e dos patrões, só aceitando financiamento de trabalhadores.
+- Redução da jornada de trabalho para 6 (seis) horas diárias sem redução de salário;
+- Pela organização sindical democrática elegendo representante do local de trabalho
+- Possam ser filiados como membros dos sindicatos todos em outros regimes de contratação que não CLT, e desempregados;
 - Pelo salário mínimo do DIEESE para todas as categorias profissionais;
-
-- Reestatização das empresas privatizadas, sob controle dos trabalhadores;
-
 - Maiores Salários em vez de PLR;
-
-- Liberdade para o trabalhador controlar as horas e escolher a jornada;
-
-- Hora extra 100%
-
-- Contra mecanismo do patrão pra conseguir sobretrabalho;
-
+- Jornada de trabalho móvel para atender necessidades do trabalhador;
+- Hora Extra 100%
+- Contra mecanismo do patrão para extorquir sobretrabalho;
 - Função igual salário igual. Exigir equidade salarial para a mesma função, sem distinção étnica, de gênero; orientação sexual, etária ou quaisquer outros marcadores sociais de diferença;
-
 - Enfrentamento ao machismo que encontra forte eco dentro das subcategorias de trabalhadores de TI;
-
-- Estatização das empresas, e dos códigos-fonte, sem controle de burocratas e sim sob controle do operário; 
-
-- 1(um) ano de licença maternidade e paternidade;
-
+- Garantia de creches sem custos para os filhos dos trabalhadores e das trabalhadoras;
+- Estatização das empresas e dos códigos-fonte, sob controle dos trabalhadores;
+- 1(um) ano de licença maternidade e de licença paternidade;
 - Socialização do controle e acesso à internet;
-
 - Uso, desenvolvimento e fomento ao Software Livre;
-
 - Fim de todas as patentes;
 
 **Como nos Organizamos?**
