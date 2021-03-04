@@ -3,9 +3,9 @@ Lutamos pela independência total e liberdade para a democracia operária poder 
 
 **Trabalhadores de Tecnologia, uni-vos**
 Defendemos a união dos trabalhadores e atuação política e sindical desses trabalhadores.
-Não aceitamos nos subordinar ao jogo capitalista de explorar mais os trabalhadores que perecem doentes ao invés de trazer as tecnologias para o bem comum do conjunto da humanidade.
+Não aceitamos nos subordinar ao jogo capitalista de explorar mais os trabalhadores ao invés de trazer as tecnologias para o bem comum do conjunto da humanidade.
 Lutamos pela superação do capitalismo em prol do Socialismo com a tomada e controle das empresas pelos trabalhadores;
-Enfrentamento, anulação e reversão dos ataques contra os direitos dos trabalhadores, apresentados nas contrarreformas do Capitalismo recentes, como a Reforma Trabalhista e da Previdência, que visam diminuir o custo do trabalho;
+Enfrentamento, anulação e reversão dos ataques contra os direitos dos trabalhadores, apresentados nas contrarreformas do Capitalismo recentes, como a Reforma Trabalhista e da Previdência;
 Fortalecer as frentes antifascista a nível nacional e internacional, e fortalecimento de correntes internacionais de partidos e sindicatos anticapitalistas;
 
 **Nossas bandeiras**
