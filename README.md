@@ -3,6 +3,7 @@
 Este é o documento que o Infoproletários utiliza para apresentar suas propostas.
 
 ## 1. O que é o Infoproletários?
+
 O Infoproletários é uma corrente sindical de trabalhadores e trabalhadoras da TI.
 
 - Nós atuamos para unir a categoria dos trabalhadores de tecnologia para lutarmos por melhores condições de trabalho e vida.
@@ -22,6 +23,5 @@ Instagram (https://instagram.com/infoproletariosoficial)
 
 São canais que nos esforçamos para manter com atividade e debates construtivos.
 Há moderação nestes espaços e espera-se que todos os participantes sigam o nosso [Código de Conduta](#).
-
 
 <img src="https://github.com/infoproletarios/guia-de-uso/blob/master/asamblea.jpg" alt="asamblea">
