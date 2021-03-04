@@ -1,34 +1,26 @@
 # Infoproletários: Guia de Uso
 
-Este é o documento que o Infoproletários utiliza para apresentar suas propostas.
-
-## 1. O que é o Infoproletários?
+## O que é o Infoproletários?
 O Infoproletários é uma corrente sindical de trabalhadores e trabalhadoras da TI.
 
-Nós atuamos para mudar as codições de trabalho e vida dos trabalhadores de tecnologia e para finalizar com a exploração do trabalhador de TI. 
-Nós nos organizamos para combater o peleguismo nos meios sindicais para criar um sindicalismo revolucionário para todos os trabalhadores de TI.
-Não nos restringimos a forma de contratação do trabalhador porque não nos colocamos pelas leis atuais da sociedade burguesa carcomida.
-Lutamos para a admissão nos Sindicatos pelos que trabalham como: PJ, MEI, CLT, freelancer, e também desempregados.
-Entendemos que estas variadas formas de contratação (inclusive a demissão) na verdade são formas dos empregadores burlarem as leis que os trabalhadores deveriam ter para obter lucros maiores.
-Somos todos trabalhadores de TI, inclusive quando estamos desempregados, e precisamos nos juntar para conseguir nossos interesses coletivos.
-Acreditamos que a solução individual, que acreditamos ser uma idéia imposta como única viável, pois é a propaganda preparada pelo sistema,leva a atomização e perdas gerais no futuro próximo e depois.
+- Nós atuamos para unir a categoria dos trabalhadores de tecnologia para lutarmos por melhores condições de trabalho e vida.
+- Entendemos que a busca pelo lucro das empresas de TI inevitavelmente acaba entrando em conflito com os salários, com o bem-estar e com a saúde de seus funcionários.
+- Buscamos crair um sindicalismo independente e financiado pelos trabalhadores, combatendo o peleguismo nos sindicatos da categoria e sua dependência financeira do Estado e de acordos com empresas.
+- Acreditamos que os diferentes regimes de contratação burlam leis trabalhistas e dividem a luta, e, por isso, defendemos representação sindical para trabalhadores PJ, MEI, CLT, freelancer, e também desempregados.
+- Enxergamos evidentes limites na busca por sucesso individual e no "empreendedorismo" professado pelas empresas aos trabalhadores, entendendo que soluções viáveis para melhorar a vida da categoria devem ser coletivas.
+- Defendemos que os trabalhadores de empresas de TI que desenvolvem tecnologias que ferem os direitos e a privacidade das pessoas devem estar entre os protagonistas na luta contra o mau uso da tecnologia feito por seus empregadores.
+- Por fim, somos solidários com as lutas dos trabalhadores de outras categorias, buscando construir uma sociedade justa, livre e socialista.
 
-## 2. Como funciona o Infoproletários?
-O Info funciona na forma de círculos concêntricos.
-Há níveis crescentes de acesso e responsabilidade baseados no engajamento em tarefas e atividades sindicais.
+## Quais são os canais oficiais?
 
-- Comunidade: Nossos canais oficiais para conversa, debates públicos, e discussão do nosso jornal Kernel Panic e outras mídias digitais.
+Twitter (https://twitter.com/infoproletarios)
 
-- Moderadores: Membros que moderam o ambiente digital e físico da Comunidade. 
-
-- Membro: Organizador dos espaços, e comunicador da mídia, deve participar da nossa formação interna, executar tarefas periódicas, e estar de acordo com os textos políticos.
-
-## 3. Quais são os canais oficiais?
-
-Twitter @infoproletarios (https://twitter.com/infoproletarios)
 Canal no Telegram (https://t.me/infoproletarios)
+
 Página do Facebook (https://www.facebook.com/infoproletarios/). 
+
 Instagram (https://instagram.com/infoproletariosoficial)
+
 
 São canais que nos esforçamos para manter com atividade e debates construtivos.
 Há moderação nestes espaços e espera-se que todos os participantes sigam o nosso [Código de Conduta](#).
