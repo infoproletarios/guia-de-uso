@@ -9,27 +9,26 @@ Enfrentamento, anulação e reversão dos ataques contra os direitos dos trabalh
 Fortalecer as frentes antifascista a nível nacional e internacional, e fortalecimento de correntes internacionais de partidos e sindicatos anticapitalistas;
 
 **Nossas bandeiras**
-- Vacina grátis pra todos. Sem vacina é greve!
 - Lutar contra todas as formas de terceirização;
+- Garantia de estabilidade no emprego, fim das demissões sem justa causa;
 - Exigir a contratação de CLT dos funcionários PJ e outras formas de contratação;
 - Extensão dos direitos trabalhistas a todos os trabalhadores independente de forma de contratação;
+- Independependência do Estado e dos patrões, organizações dos trabalhadores só devem aceitar financiamento de trabalhadores.
 - Auxílio compensatório de despesas para trabalhadores em Home Office e o fornecimento dos equipamentos e mobiliário laboral pelo empregador;
-- Garantia de estabilidade no emprego;
-- Independependência do Estado e dos patrões, só aceitando financiamento de trabalhadores.
 - Redução da jornada de trabalho para 6 (seis) horas diárias sem redução de salário;
-- Pela organização sindical democrática elegendo representante do local de trabalho
-- Possam ser filiados como membros dos sindicatos todos em outros regimes de contratação que não CLT, e desempregados;
+- Pela organização sindical democrática com representantes em cada local de trabalho
+- Possam ser filiados como membros dos sindicatos todos em outros regimes de contratação que não CLT, inclusive desempregados que não deixam de ser trabalhadores mesmo sem estarem empregados;
 - Pelo salário mínimo do DIEESE para todas as categorias profissionais;
-- Maiores Salários em vez de PLR;
+- Maiores Salários ao em vez de PLR;
 - Jornada de trabalho móvel para atender necessidades do trabalhador;
 - Hora Extra 100%
-- Contra mecanismo do patrão para extorquir sobretrabalho;
+- Contra os mecanismos do patrão para extorquir sobretrabalho;
 - Função igual salário igual. Exigir equidade salarial para a mesma função, sem distinção étnica, de gênero; orientação sexual, etária ou quaisquer outros marcadores sociais de diferença;
 - Enfrentamento ao machismo que encontra forte eco dentro das subcategorias de trabalhadores de TI;
 - Garantia de creches sem custos para os filhos dos trabalhadores e das trabalhadoras;
 - Estatização das empresas e dos códigos-fonte, sob controle dos trabalhadores;
 - 1(um) ano de licença maternidade e de licença paternidade;
-- Socialização do controle e acesso à internet;
+- Socialização do controle e acesso à internet, gratuitamente para todos;
 - Uso, desenvolvimento e fomento ao Software Livre;
 - Fim de todas as patentes;
 
