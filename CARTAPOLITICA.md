@@ -13,6 +13,7 @@ Fortalecer as frentes antifascista a nível nacional e internacional, e fortalec
 - Lutar contra todas as formas de terceirização;
 - Exigir a contratação de CLT dos funcionários PJ e outras formas de contratação;
 - Extensão dos direitos trabalhistas a todos os trabalhadores independente de forma de contratação;
+- Auxílio compensatório de despesas para trabalhadores em Home Office e o fornecimento dos equipamentos e mobiliário laboral pelo empregador;
 - Garantia de estabilidade no emprego;
 - Independependência do Estado e dos patrões, só aceitando financiamento de trabalhadores.
 - Redução da jornada de trabalho para 6 (seis) horas diárias sem redução de salário;
