@@ -10,9 +10,11 @@ Fortalecer as frentes antifascista a nível nacional e internacional, e fortalec
 
 **Nossas bandeiras**
 - Lutar contra todas as formas de terceirização;
-- Exigir a contratação de CLT dos funcionários PJ e outras formas de contratação; enquanto isso: Extensão dos direitos trabalhistas a todos os trabalhadores independente de forma de contratação;
 - Garantia de estabilidade no emprego, fim das demissões sem justa causa;
-- Independependência do Estado e dos patrões, organizações dos trabalhadores só aceitam financiamento de trabalhadores.
+- Exigir a contratação de CLT dos funcionários PJ e outras formas de contratação;
+- Extensão dos direitos trabalhistas a todos os trabalhadores independente de forma de contratação;
+- Independependência do Estado e dos patrões, organizações dos trabalhadores só devem aceitar financiamento de trabalhadores.
+- Auxílio compensatório de despesas para trabalhadores em Home Office e o fornecimento dos equipamentos e mobiliário laboral pelo empregador;
 - Redução da jornada de trabalho para 6 (seis) horas diárias sem redução de salário;
 - Pela organização sindical democrática com representantes em cada local de trabalho
 - Possam ser filiados como membros dos sindicatos todos em outros regimes de contratação que não CLT, inclusive desempregados que não deixam de ser trabalhadores mesmo sem estarem empregados;
